@@ -1,0 +1,42 @@
+{
+    "analysis_summary": {
+        "total_stories_in_setting": 1000,
+        "processed_and_categorized": 1000,
+        "skipped_stories": 0
+    },
+    "pattern_category_distribution": {
+        "A/A/A": 29,
+        "AA/A/": 802,
+        "AAA//": 169
+    },
+    "specific_pattern_distribution": {
+        "A/A/A": {
+            "A/A/ACCCOOO": 10,
+            "A/AC/ACCOOO": 7,
+            "A/ACCOO/ACO": 7,
+            "A/ACCO/ACOO": 5
+        },
+        "AA/A/": {
+            "/A/AACCCOOO": 300,
+            "A/AACCOO/CO": 120,
+            "/AACCOO/ACO": 103,
+            "A/AACCOOO/C": 90,
+            "/AACCOOO/AC": 71,
+            "A/AACCO/COO": 37,
+            "/AACCO/ACOO": 29,
+            "/AA/ACCCOOO": 22,
+            "/AACO/ACCOO": 8,
+            "AA/ACCOOO/C": 6,
+            "AA/ACCOO/CO": 5,
+            "AA/ACCO/COO": 4,
+            "/AAC/ACCOOO": 4,
+            "/AACOO/ACCO": 3
+        },
+        "AAA//": {
+            "/AAACCOOO/C": 75,
+            "/AAACCOO/CO": 72,
+            "/AAACCO/COO": 22
+        }
+    },
+    "skipped_stories_report": {}
+}

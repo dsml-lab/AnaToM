@@ -1,0 +1,212 @@
+{
+  "A3_O3_C3": {
+    "total_samples": 1000,
+    "distribution": [
+      {
+        "sequence": "move -> exit_enter -> move -> exit_enter",
+        "count": 214,
+        "percentage": "21.4%"
+      },
+      {
+        "sequence": "exit_enter -> move -> move -> exit_enter",
+        "count": 206,
+        "percentage": "20.6%"
+      },
+      {
+        "sequence": "exit_enter -> exit_enter -> move -> move",
+        "count": 205,
+        "percentage": "20.5%"
+      },
+      {
+        "sequence": "move -> exit_enter -> exit_enter -> move",
+        "count": 189,
+        "percentage": "18.9%"
+      },
+      {
+        "sequence": "exit_enter -> move -> exit_enter -> move",
+        "count": 186,
+        "percentage": "18.6%"
+      }
+    ]
+  },
+  "A3_O3_C4": {
+    "total_samples": 1000,
+    "distribution": [
+      {
+        "sequence": "move -> exit_enter -> move -> exit_enter",
+        "count": 233,
+        "percentage": "23.3%"
+      },
+      {
+        "sequence": "exit_enter -> move -> exit_enter -> move",
+        "count": 204,
+        "percentage": "20.4%"
+      },
+      {
+        "sequence": "exit_enter -> exit_enter -> move -> move",
+        "count": 196,
+        "percentage": "19.6%"
+      },
+      {
+        "sequence": "move -> exit_enter -> exit_enter -> move",
+        "count": 190,
+        "percentage": "19.0%"
+      },
+      {
+        "sequence": "exit_enter -> move -> move -> exit_enter",
+        "count": 177,
+        "percentage": "17.7%"
+      }
+    ]
+  },
+  "A3_O3_C5": {
+    "total_samples": 1000,
+    "distribution": [
+      {
+        "sequence": "exit_enter -> move -> move -> exit_enter",
+        "count": 218,
+        "percentage": "21.8%"
+      },
+      {
+        "sequence": "exit_enter -> move -> exit_enter -> move",
+        "count": 203,
+        "percentage": "20.3%"
+      },
+      {
+        "sequence": "move -> exit_enter -> exit_enter -> move",
+        "count": 203,
+        "percentage": "20.3%"
+      },
+      {
+        "sequence": "move -> exit_enter -> move -> exit_enter",
+        "count": 198,
+        "percentage": "19.8%"
+      },
+      {
+        "sequence": "exit_enter -> exit_enter -> move -> move",
+        "count": 178,
+        "percentage": "17.8%"
+      }
+    ]
+  },
+  "A3_O4_C3": {
+    "total_samples": 1000,
+    "distribution": [
+      {
+        "sequence": "exit_enter -> exit_enter -> move -> move",
+        "count": 219,
+        "percentage": "21.9%"
+      },
+      {
+        "sequence": "move -> exit_enter -> move -> exit_enter",
+        "count": 200,
+        "percentage": "20.0%"
+      },
+      {
+        "sequence": "exit_enter -> move -> exit_enter -> move",
+        "count": 195,
+        "percentage": "19.5%"
+      },
+      {
+        "sequence": "move -> exit_enter -> exit_enter -> move",
+        "count": 193,
+        "percentage": "19.3%"
+      },
+      {
+        "sequence": "exit_enter -> move -> move -> exit_enter",
+        "count": 193,
+        "percentage": "19.3%"
+      }
+    ]
+  },
+  "A3_O5_C3": {
+    "total_samples": 1000,
+    "distribution": [
+      {
+        "sequence": "move -> exit_enter -> exit_enter -> move",
+        "count": 219,
+        "percentage": "21.9%"
+      },
+      {
+        "sequence": "exit_enter -> exit_enter -> move -> move",
+        "count": 208,
+        "percentage": "20.8%"
+      },
+      {
+        "sequence": "move -> exit_enter -> move -> exit_enter",
+        "count": 200,
+        "percentage": "20.0%"
+      },
+      {
+        "sequence": "exit_enter -> move -> move -> exit_enter",
+        "count": 193,
+        "percentage": "19.3%"
+      },
+      {
+        "sequence": "exit_enter -> move -> exit_enter -> move",
+        "count": 180,
+        "percentage": "18.0%"
+      }
+    ]
+  },
+  "A4_O3_C3": {
+    "total_samples": 1000,
+    "distribution": [
+      {
+        "sequence": "move -> exit_enter -> move -> exit_enter",
+        "count": 209,
+        "percentage": "20.9%"
+      },
+      {
+        "sequence": "move -> exit_enter -> exit_enter -> move",
+        "count": 209,
+        "percentage": "20.9%"
+      },
+      {
+        "sequence": "exit_enter -> move -> exit_enter -> move",
+        "count": 206,
+        "percentage": "20.6%"
+      },
+      {
+        "sequence": "exit_enter -> move -> move -> exit_enter",
+        "count": 201,
+        "percentage": "20.1%"
+      },
+      {
+        "sequence": "exit_enter -> exit_enter -> move -> move",
+        "count": 175,
+        "percentage": "17.5%"
+      }
+    ]
+  },
+  "A5_O3_C3": {
+    "total_samples": 1000,
+    "distribution": [
+      {
+        "sequence": "move -> exit_enter -> move -> exit_enter",
+        "count": 211,
+        "percentage": "21.1%"
+      },
+      {
+        "sequence": "exit_enter -> move -> move -> exit_enter",
+        "count": 207,
+        "percentage": "20.7%"
+      },
+      {
+        "sequence": "exit_enter -> move -> exit_enter -> move",
+        "count": 204,
+        "percentage": "20.4%"
+      },
+      {
+        "sequence": "move -> exit_enter -> exit_enter -> move",
+        "count": 202,
+        "percentage": "20.2%"
+      },
+      {
+        "sequence": "exit_enter -> exit_enter -> move -> move",
+        "count": 176,
+        "percentage": "17.6%"
+      }
+    ]
+  }
+}
