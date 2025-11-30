@@ -1,0 +1,21 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Setting ---
+venv/
+env/
+.venv/
+.env
+
+# --- OS・Editor ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# --- Results ---
+evaluation_results_*.json
+evaluation_summary_*.json
+distribution_analysis.json
