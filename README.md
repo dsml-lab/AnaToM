@@ -1,6 +1,7 @@
 # AnaToM
 
 ## Citation
+If you find our framework useful, please cite our work.
 ```
 @inproceedings{suzuki2025AnaToM,
     title = "AnaToM: A Dataset Generation Framework for Evaluating Theory of Mind Reasoning toward the Anatomy of Difficulty through Structurally Controlled Story Generation",
