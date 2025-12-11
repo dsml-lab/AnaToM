@@ -1,5 +1,32 @@
 # AnaToM
 
+## Project Structure
+
+This repository is organized into two main directories: `dataset` for generation/analysis and `evaluate_model` for benchmarking.
+
+```text
+.
+├── dataset/                             # Data generation & analysis module
+│   ├── generate_benchmark_story_detect.py # [Main] Script to generate stories based on patterns
+│   ├── create_test.py                   # Utilities to format or split test data
+│   ├── analyze_patterns.py              # Script to analyze dataset distribution/statistics
+│   ├── analyze_patterns_accuracy.py     # Script to validate pattern consistency
+│   ├── world.json                       # [Config] Definitions of objects, locations, and agents
+│   ├── pattern.json                     # [Config] Templates for Theory of Mind patterns
+│   ├── stories.json                     # [Output] Generated story text
+│   ├── qa_sets.json                     # [Output] Generated Question-Answer pairs
+│   └── distribution_analysis.json       # [Output] Analysis report of the dataset
+│
+├── evaluate_model/                      # LLM evaluation module
+│   ├── evaluate_gpt.py                  # Evaluation script for OpenAI GPT models
+│   └── evaluate_llama.py                # Evaluation script for Llama models
+│
+├── .gitignore
+├── LICENSE
+├── README.md
+└── requirements.txt                     # Python dependencies
+```
+
 ## Citation
 If you find our framework useful, please cite our work.
 ```
