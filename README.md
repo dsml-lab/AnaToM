@@ -30,16 +30,19 @@ This repository is organized into two main directories: `dataset` for generation
 ## Citation
 If you find our framework useful, please cite our work.
 ```
-@inproceedings{suzuki2025AnaToM,
-    title = "AnaToM: A Dataset Generation Framework for Evaluating Theory of Mind Reasoning toward the Anatomy of Difficulty through Structurally Controlled Story Generation",
+@inproceedings{suzuki-etal-2025-anatom,
+    title = "{A}na{T}o{M}: {A} {D}ataset {G}eneration {F}ramework for {E}valuating {T}heory of {M}ind {R}easoning {T}oward the {A}natomy of {D}ifficulty through {S}tructurally {C}ontrolled {S}tory {G}eneration",
     author = "Suzuki, Jundai  and
       Ishigaki, Ryoma  and
       Maeda, Eisaku",
-    booktitle = "Findings of the Association for Computational Linguistics: IJCNLP-AACL 2025 (Findings)",
+    booktitle = "Proceedings of the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics",
     month = dec,
     year = "2025",
     address = "Mumbai, India",
-    publisher = "Association for Computational Linguistics",
+    publisher = "The Asian Federation of Natural Language Processing and The Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-ijcnlp.14/",
+    pages = "244--257",
+    ISBN = "979-8-89176-303-6",
 }
 ```
 
