@@ -28,7 +28,21 @@ This repository is organized into two main directories: `dataset` for generation
 ```
 
 ## Citation
-If you find our framework useful, please cite our work.
+If you find our framework useful, please cite our journal paper:
+```
+@article{article,
+author = {Suzuki, Jundai and Ishigaki, Ryoma and Maeda, Eisaku},
+year = {2026},
+month = {01},
+pages = {630-657},
+title = {AnaToM: A Dataset Generation Framework for Evaluating Theory of Mind Reasoning Toward Anatomy of Difficulty Through Structurally Controlled Story Generation},
+volume = {33},
+journal = {Journal of Natural Language Processing},
+doi = {10.5715/jnlp.33.630}
+}
+```
+
+This work was originally published as:
 ```
 @inproceedings{suzuki-etal-2025-anatom,
     title = "{A}na{T}o{M}: {A} {D}ataset {G}eneration {F}ramework for {E}valuating {T}heory of {M}ind {R}easoning {T}oward the {A}natomy of {D}ifficulty through {S}tructurally {C}ontrolled {S}tory {G}eneration",
